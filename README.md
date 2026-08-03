@@ -10,7 +10,7 @@ Snake grows after eating food.
 Collision detection with walls and the snake itself.
 Game Over message with the final snake length.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 Turtle Graphics
